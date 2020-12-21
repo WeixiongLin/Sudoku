@@ -1,0 +1,17 @@
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+*.png
+*.jpg
+*.npy
+
+# My configurations:
+dataset
+images
+models
+tensor_test
+template
+tmp
